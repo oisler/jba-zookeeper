@@ -1,4 +1,4 @@
-package animal;
+package app.animal;
 
 public class Camel extends Animal {
 

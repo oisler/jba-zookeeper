@@ -1,4 +1,4 @@
-package animal;
+package app.animal;
 
 public abstract class Animal {
 

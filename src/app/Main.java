@@ -1,4 +1,6 @@
-import animal.*;
+package app;
+
+import app.animal.*;
 
 import java.util.Scanner;
 
